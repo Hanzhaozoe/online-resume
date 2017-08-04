@@ -1,2 +1,0 @@
-# online-resume
-personal resume
